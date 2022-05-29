@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ## 最近書いた記事
+### Next.js + Markdown + microCMSでブログを作る
+https://zenn.dev/pilefort/articles/d3c047557c540c
+
 ### Nuxt3 + piniaでサブウィンドウ間のstoreを共有する方法
 https://zenn.dev/pilefort/articles/42f6a6729f600e
 
