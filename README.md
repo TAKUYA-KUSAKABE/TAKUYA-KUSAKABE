@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ## 最近書いた記事
+### CircleCIでジョブを定期実行する方法 (Dynamic Configも対応)
+https://zenn.dev/pilefort/articles/239fa3fe03fb0a
+
 ### Next.js + Markdown + microCMSでブログを作る
 https://zenn.dev/pilefort/articles/d3c047557c540c
 
@@ -39,6 +42,11 @@ https://pilefort.dev/notes/how-to-deploy-to-cloud-run
 </details>
 
 ## 同人活動
+### うぇぶちぇんじろぐ2022part1
+2022年の登場したり、アップデートがあったライブラリ・フレームワーク・ツール・サービスについて紹介した本です。
+WebAssemblyやAI関連が活発だった印象で、個人的に熱いと思ったのはAstro, Deno Fresh, tauriです。
+
+https://booth.pm/ja/items/4157010
 
 ### うぇぶちぇんじろぐ2021
 2021年に登場したり、アップデートがあったライブラリ・フレームワーク・ツール・サービスについて紹介した本です。
