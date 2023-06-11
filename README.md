@@ -42,15 +42,15 @@ https://pilefort.dev/notes/how-to-deploy-to-cloud-run
 </details>
 
 ## 同人活動
-### うぇぶちぇんじろぐ2022part1
-2022年の登場したり、アップデートがあったライブラリ・フレームワーク・ツール・サービスについて紹介した本です。
-WebAssemblyやAI関連が活発だった印象で、個人的に熱いと思ったのはAstro, Deno Fresh, tauriです。
+### MyWebちぇんじろぐ2023part1
+https://booth.pm/ja/items/4811054
 
+### MyWebちぇんじろぐ2022part2
+https://booth.pm/ja/items/4811046
+
+### うぇぶちぇんじろぐ2022part1
 https://booth.pm/ja/items/4157010
 
 ### うぇぶちぇんじろぐ2021
-2021年に登場したり、アップデートがあったライブラリ・フレームワーク・ツール・サービスについて紹介した本です。
-個人的に熱いと思ったのは、PlanetScaleとRemix.jsです。
-
 https://pilefort.booth.pm/items/3633323
 
