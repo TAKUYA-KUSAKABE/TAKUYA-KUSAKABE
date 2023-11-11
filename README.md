@@ -1,20 +1,28 @@
 ### Hi there 👋
 
 ## 最近書いた記事
-### CircleCIでジョブを定期実行する方法 (Dynamic Configも対応)
-https://zenn.dev/pilefort/articles/239fa3fe03fb0a
+### FastAPI (mangum) を AWS Lambda で動かす
+https://zenn.dev/articles/a286144465cb6b/edit
 
-### Next.js + Markdown + microCMSでブログを作る
-https://zenn.dev/pilefort/articles/d3c047557c540c
+<details>
+  <summary>2022年に書いた記事</summary>
 
-### Nuxt3 + piniaでサブウィンドウ間のstoreを共有する方法
-https://zenn.dev/pilefort/articles/42f6a6729f600e
+  ### CircleCIでジョブを定期実行する方法 (Dynamic Configも対応)
+  https://zenn.dev/pilefort/articles/239fa3fe03fb0a
+  
+  ### Next.js + Markdown + microCMSでブログを作る
+  https://zenn.dev/pilefort/articles/d3c047557c540c
+  
+  ### Nuxt3 + piniaでサブウィンドウ間のstoreを共有する方法
+  https://zenn.dev/pilefort/articles/42f6a6729f600e
+  
+  ### Chrome102で追加された 「Bounds must be at least 50% within visible screen space」 の解決法
+  https://zenn.dev/pilefort/articles/c5bd0c474c66e4
+  
+  ### Cloud RunでNext.jsアプリを動かす方法 覚書
+  https://pilefort.dev/notes/how-to-deploy-to-cloud-run
 
-### Chrome102で追加された 「Bounds must be at least 50% within visible screen space」 の解決法
-https://zenn.dev/pilefort/articles/c5bd0c474c66e4
-
-### Cloud RunでNext.jsアプリを動かす方法 覚書
-https://pilefort.dev/notes/how-to-deploy-to-cloud-run
+</details>
 
 <details>
   <summary>2021年に書いた記事</summary>
@@ -42,6 +50,9 @@ https://pilefort.dev/notes/how-to-deploy-to-cloud-run
 </details>
 
 ## 同人活動
+### MyWebちぇんじろぐ2023part2
+https://techbookfest.org/product/fdsWHWh2ySYruhsUJ8qdia
+
 ### MyWebちぇんじろぐ2023part1
 https://booth.pm/ja/items/4811054
 
