@@ -51,7 +51,7 @@ https://zenn.dev/articles/a286144465cb6b/edit
 
 ## 同人活動
 ### MyWebちぇんじろぐ2023part2
-https://techbookfest.org/product/fdsWHWh2ySYruhsUJ8qdia
+https://booth.pm/ja/items/5258908
 
 ### MyWebちぇんじろぐ2023part1
 https://booth.pm/ja/items/4811054
