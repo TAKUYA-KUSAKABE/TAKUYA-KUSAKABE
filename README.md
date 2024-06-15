@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ## 最近書いた記事
+
+### Serverless Framework v4から始まるライセンスについて
+https://zenn.dev/pilefort/articles/77c4c88cdf76d1
+
 ### FastAPI (mangum) を AWS Lambda で動かす
 https://zenn.dev/articles/a286144465cb6b/edit
 
@@ -50,18 +54,24 @@ https://zenn.dev/articles/a286144465cb6b/edit
 </details>
 
 ## 同人活動
+### Amazon Connectを用いたコールセンター開発入門
+https://pilefort.booth.pm/items/5818978
+
+### MyWebちぇんじろぐ2024part1
+https://pilefort.booth.pm/items/5818971
+
 ### MyWebちぇんじろぐ2023part2
-https://booth.pm/ja/items/5258908
+https://pilefort.booth.pm/items/5258908
 
 ### MyWebちぇんじろぐ2023part1
-https://booth.pm/ja/items/4811054
+https://pilefort.booth.pm/items/4811054
 
 ### MyWebちぇんじろぐ2022part2
-https://booth.pm/ja/items/4811046
+https://techbookfest.org/product/ndFD6KSRyyjfHZiEB9jjXL
 
 ### うぇぶちぇんじろぐ2022part1
-https://booth.pm/ja/items/4157010
+https://techbookfest.org/product/2tk00VCsPfTM2F61D3ffY7
 
 ### うぇぶちぇんじろぐ2021
-https://pilefort.booth.pm/items/3633323
+https://techbookfest.org/product/5334756306714624
 
