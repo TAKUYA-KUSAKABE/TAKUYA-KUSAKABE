@@ -6,7 +6,7 @@
 https://zenn.dev/pilefort/articles/77c4c88cdf76d1
 
 ### FastAPI (mangum) を AWS Lambda で動かす
-https://zenn.dev/articles/a286144465cb6b/edit
+https://zenn.dev/alleeks/articles/a286144465cb6b
 
 <details>
   <summary>2022年に書いた記事</summary>
